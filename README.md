@@ -2,4 +2,4 @@
 Web Design Using HTML and CSS
 
 # Output
-![FireShot Capture 001 - Rashmi - Flipkart - 127 0 0 1](https://user-images.githubusercontent.com/73373335/209071550-775d518d-4ab5-4181-a5df-22e806f7f362.png)
+![FireShot Capture 002 - Rashmi - Flipkart - 127 0 0 1](https://user-images.githubusercontent.com/73373335/209072037-d2d1e6b3-1700-421a-84c6-6bb21075f6d1.png)
